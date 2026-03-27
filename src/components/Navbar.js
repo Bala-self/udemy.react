@@ -13,7 +13,7 @@ function Navbar() {
       </div>
 
       <div className="navbar_3">
-        <a href="#" className="role">Courses</a>
+        <a href="/courses" className="role">Courses</a>
 
         <div className="mylearning">
           <a href="#" className="role">My Learning</a>
