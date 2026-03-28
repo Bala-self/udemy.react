@@ -16,15 +16,15 @@ function Navbar() {
         <a href="/courses" className="role">Courses</a>
 
         <div className="mylearning">
-          <a href="#" className="role">My Learning</a>
+          <a href="/courses" className="role">My Learning</a>
           <div className="notice">
             <p>You are not purchase any courses</p>
           </div>
         </div>
 
-        <a href="#" className="role"><i className="fa-solid fa-cart-arrow-down"></i></a>
-        <a href="#" className="role"><i className="fa-solid fa-bell"></i></a>
-        <a href="#" className="role"><i className="fa-solid fa-circle-user"></i></a>
+        <a href="/courses" className="role"><i className="fa-solid fa-cart-arrow-down"></i></a>
+        <a href="/courses" className="role"><i className="fa-solid fa-bell"></i></a>
+        <a href="/courses" className="role"><i className="fa-solid fa-circle-user"></i></a>
       </div>
 
       <div className="menu">
